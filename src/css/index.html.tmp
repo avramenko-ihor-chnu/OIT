@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Index of /src/css/</title>
+<style type="text/css"><!--
+body { background-color: white; color: black; font-family: sans-serif; }
+hr { border: 0; border-bottom: 1px dashed; }
+@media (prefers-color-scheme: dark) {
+body { background-color: #1E1F21; color: #EEEFF1; }
+a { color: #BAD7FF; }
+}
+--></style>
+</head>
+<body>
+<h1>Index of /src/css/</h1>
+<hr>
+<pre>
+<a href="../">../</a>                                                03-Sep-2024 00:11                   -
+<a href="colors.css">colors.css</a>                                         03-Sep-2024 00:07                 217
+<a href="style.css">style.css</a>                                          03-Sep-2024 00:07                4436
+</pre>
+<hr>
+</body>
+</html>

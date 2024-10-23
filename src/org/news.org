@@ -1,0 +1,16 @@
+#+TITLE: Website updates
+#+AUTHOR: Crystal
+#+OPTIONS: ^:{}
+#+OPTIONS: num:nil
+#+EXPORT_FILE_NAME: ../../news.html
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="src/css/colors.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="src/css/style.css"/>
+#+HTML_HEAD: <link rel="icon" type="image/x-icon" href="favicon.png">
+#+OPTIONS: html-style:nil
+#+OPTIONS: toc:nil
+#+OPTIONS: d:RESULTS
+#+HTML_LINK_HOME: https://crystal.tilde.institute/
+#+HTML_LINK_UP: https://crystal.tilde.institute/
+
+* Done some cleaning : 03/09/2024
+I decided to do some cleaning, mainly removing a lot of blogs that i deemed unworthy anymore. Archived one of them, and added this section, and the scratchpad section, for my rambling and ranting. We are so back guys!!!

@@ -1,0 +1,18 @@
+#+TITLE: Scratchpad
+#+AUTHOR: Crystal
+#+OPTIONS: ^:{}
+#+OPTIONS: num:nil
+#+EXPORT_FILE_NAME: ../../scratchpad.html
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="src/css/colors.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="src/css/style.css"/>
+#+HTML_HEAD: <link rel="icon" type="image/x-icon" href="favicon.png">
+#+OPTIONS: html-style:nil
+#+OPTIONS: toc:nil
+#+OPTIONS: d:RESULTS
+#+HTML_LINK_HOME: https://crystal.tilde.institute/
+#+HTML_LINK_UP: https://crystal.tilde.institute/
+
+* 001
+Today I saw two black cats, does this mean I get double bad luck ? or do i get good luck ?
+
+/09-10-2024/

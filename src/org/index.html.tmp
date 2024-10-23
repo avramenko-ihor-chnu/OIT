@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Index of /src/org/</title>
+<style type="text/css"><!--
+body { background-color: white; color: black; font-family: sans-serif; }
+hr { border: 0; border-bottom: 1px dashed; }
+@media (prefers-color-scheme: dark) {
+body { background-color: #1E1F21; color: #EEEFF1; }
+a { color: #BAD7FF; }
+}
+--></style>
+</head>
+<body>
+<h1>Index of /src/org/</h1>
+<hr>
+<pre>
+<a href="../">../</a>                                                03-Sep-2024 00:11                   -
+<a href="archives/">archives/</a>                                          03-Sep-2024 00:07                   -
+<a href="export.sh">export.sh</a>                                          03-Sep-2024 00:15                 432
+<a href="index.org">index.org</a>                                          12-Oct-2024 10:55                5860
+<a href="links.org">links.org</a>                                          03-Sep-2024 00:07                4006
+<a href="news.org">news.org</a>                                           03-Sep-2024 00:07                 764
+<a href="scratchpad.org">scratchpad.org</a>                                     09-Oct-2024 21:55                 622
+<a href="super_secret.org">super_secret.org</a>                                   03-Sep-2024 00:07                 634
+</pre>
+<hr>
+</body>
+</html>

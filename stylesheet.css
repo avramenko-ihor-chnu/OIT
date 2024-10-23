@@ -1,0 +1,153 @@
+h1 {
+    color: white;
+    font-size:50px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-shadow: 2px 2px 7px white;
+    animation;
+    text-align:center;
+}
+
+.border /*title for main content and side panels*/ {
+    background-color:#3d2e47;
+    margin: 10px;
+    border: 2px solid #3d2e47;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis "";
+    text-align: center;
+    font-size: 1.5em;;
+    
+}
+
+.actualstuff /* content */ {
+    border :#3d2e47 solid 3px;
+    padding: 0px;
+    margin: auto;
+    min-height:20%;
+    min-width:60%;
+    max-width:67%;
+
+}
+
+h4, p, titletext {
+	color:white;
+}
+
+
+body /*what do you think? xd*/ {
+    background-color: #1f1a27;
+    color:white;
+    margin: auto;
+    padding:20px 25px 25px 25px;
+    font-family:"Mono", "Consolas", "MS PGothic", sans-serif;
+}
+
+a {
+	font-size:large;
+	color:hotpink;
+}
+
+.navigation {
+font-size:large;
+    background-color:#3d2e47;
+    margin: 40px;
+    border: 2px solid #3d2e47;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis "";
+
+}
+
+
+h1::before {
+  color: hotpink;
+  content: "# ";
+  text-shadow: none;
+}
+
+h4::before {
+  color: hotpink;
+  content: "## ";
+}
+h1::after, h4::after {
+  color: hotpink;
+  content: ": ";
+  text-shadow: none;
+}
+
+
+.left /* left side panel */ {
+    position: absolute;
+    left:40px;
+    min-width: 13%;
+    max-width: 13%;
+}
+
+.right /* right side panel */ {
+    position: absolute;
+    top:107px;
+    /* my dear reader, you may find yourself wondering why the right panel has "top: 171px", and why the left panel does not. that is an absolutely fantastic question, and I hope to find the answer one day too. removing this line from the right panel breaks it, but on the left panel, it doesn't seem to affect it. I do not understand css. */
+    right:40px;
+    min-width: 13%;
+    max-width: 13%;
+}
+.border /*title for main content and side panels*/ {
+    background-color:#3d2e47;
+    margin: 0px;
+    border: 2px solid #3d2e47;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis "";
+}
+
+
+/* hides side banners below a certain screen size*/
+@media screen and (max-width: 1000px) {
+  [hide] {
+        display: none !important;
+  }
+  [expand] {
+      min-width:90% !important;
+      max-width:90% !important;
+  }
+}
+
+
+
+.aesthetic /* side panels */ {
+    border: #3d2e47 solid 3px;
+    overflow-x: hidden; /* prevents image spilling out of box */
+    padding:0px;
+}
+
+p {
+    margin: 13px 40px 13px 50px;
+    font-size:20px;
+    color: #c4b6d1;
+    text-align:left;
+    line-height:1.1;
+}
+
+
+h4 {
+    margin: 30px 30px 10px 30px;
+    font-size:24px;
+    color:white;
+    font-weight:bold;
+    text-align:left;
+}
+
+a {
+	text-decoration: none;
+}
+
+input, textarea, select {
+    background-color: #1f1a27;
+}
+nav {
+    margin: 13px 20px 13px 20px;
+    font-size:20px;
+    color: #c4b6d1;
+    text-align:center;
+}

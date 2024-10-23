@@ -1,0 +1,102 @@
+#+TITLE: Crystal's Website 💜
+#+AUTHOR: Crystal
+#+OPTIONS: ^:{}
+#+OPTIONS: num:nil
+#+EXPORT_FILE_NAME: ../../index.html
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="src/css/colors.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="src/css/style.css"/>
+#+HTML_HEAD: <link rel="icon" type="image/x-icon" href="favicon.png">
+#+OPTIONS: html-style:nil
+#+OPTIONS: toc:nil
+#+OPTIONS: d:RESULTS
+* Welcome to the wired
+Hi there, [[./super_secret.html][adorable you!]]
+
+And welcome to my little corner of the internet, here I will be posting my random thoughts, some class notes, random articles, funny links...etc. Basically a way for me to play around with HTML and CSS.
+
+
+*Note: This web page is designed to be viewed even without JavaScript, the only place where I use JS is in the webring page (If I use them elsewhere, I will put a warning)*
+
+
+#+ATTR_HTML: :width 200px
+[[./src/gifs/Lain_chibi.png]]
+* Other pages
+** [[./news.html][For news & updates, click here]]
+** [[./scratchpad.html][For random rambling, ranting, and misc, click here]]
+* root@localhost $ whoami
+** About me :
+- Name : *Crystal*
+- Age : *18 years old*
+- Nationality : *Algerian*
+- Pronouns : **(Any)*
+- Sexuality : **Aro/Ace*
+- Gender : *[[https://lgbtqia.wiki/wiki/Unlabeled][Unlabeled]]*
+- Political affiliation : *Anarchism*
+- Hobbies : *Include but not limited to programming, exploring new OSes, new music genres and making friends*
+This might surprise you, but I also listen to music (A shocker, right?) though I mostly listen to *vaporwave* *glitchore* *weirdcore* *synthwave* and *dreamcore*
+
+If you want to contact me (which would be really surprising) contact me via mailto:crystaltrd@riseup.net
+
+
+** About my Navi :
+My current setup is :
+*** Dell P7510
+- CPU: *Intel(R) Core(TM) i7-6820HQ (8) @ 3.60 GHz*
+- Disk: *SAMSUNG SSD PM851a 2.5 7mm 1024GB*
+- RAM: *32GB DDR4*
+- GPU1: *NVIDIA Quadro M1000M [Discrete]*
+- GPU2: *Intel HD Graphics 530 @ 1.05 GHz [Integrated]*
+- Display: *1920x1080 @ 60HZ*
+- Primary OS: *Gentoo*
+- Text Editor: *Doom Emacs*
+- Web Browser: *Ungoogled-chromium x Firefox esr*
+- Desktop Environment: *Plasma6*
+- Shell: *fish*
+I also host this website on the https://tilde.institute *pubNIX* which also runs *OpenBSD*
+
+[[https://tildegit.org/crystaltrd/www][This website is fully open-source and licensed under the OQL v1.2 license, check the source code and feel free to reuse everything!!!]]
+* Sign my Guestbook (Warning : External website,Cloudflare, JavaScript)
+Want to leave a message, opinion, review or a salty insult ? Be sure to Sign my Guestbook then, it takes two seconds but it will mean the world to me !!!
+
+[[https://crystal.atabook.org/][file:./src/gifs/links/sign_my_guestbook-anim.gif]]
+* Blinkies
+#+BEGIN_EXPORT html
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="./src/gifs/blinkies/valid-xhtml10.png" alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
+          <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="./src/gifs/blinkies/vcss.gif"
+            alt="Valid CSS!" />
+    </a>
+#+END_EXPORT
+[[https://nishi.boats/][file:./src/gifs/blinkies/nishiboats.jpg]] [[./src/gifs/blinkies/girlsnow.png]] [[./src/gifs/blinkies/cookiefree.gif]] [[./src/gifs/blinkies/transnow2.gif]] [[./src/gifs/blinkies/gaywebring.gif]] [[./src/gifs/blinkies/tranarchy.gif]] [[./src/gifs/blinkies/button-torrents.gif]] [[./src/gifs/blinkies/tyg.gif]] [[./src/gifs/blinkies/fuck-google.gif]] [[./src/gifs/blinkies/fuck_facebook.gif]] [[./src/gifs/blinkies/graphics_by_gimp.gif]] [[./src/gifs/blinkies/learn_html.gif]] [[./src/gifs/blinkies/leave-twitter.gif]][[./src/gifs/blinkies/stop_microsoft.gif]] [[./src/gifs/blinkies/web-pi.png]] [[./src/gifs/blinkies/piracy.gif]] [[./src/gifs/blinkies/best_viewed_with_eyes.gif]] [[https://spyware.neocities.org/articles/discord][file:./src/gifs/blinkies/discord-no-way-2.gif]] [[https://yesterweb.org/no-to-web3/][file:./src/gifs/blinkies/roly-saynotoweb3.gif]]
+[[https://my.faith.rip/][file:./src/gifs/links/myfaithrip.gif]]
+[[https://wiredcollective.neocities.org][file:./src/gifs/blinkies/wiredcollectivebutton.png]]
+[[https://razorback95.com][file:./src/gifs/blinkies/rz95_button.gif]]
+[[https://blueosmuseum.com][file:./src/gifs/blinkies/blueos_button.gif]]
+[[./src/gifs/blinkies/mafumafu.gif]]
+[[./src/gifs/blinkies/winxp.gif]]
+[[./src/gifs/blinkies/ihatems.gif]]
+[[./src/gifs/blinkies/openbsdart.gif]]
+[[./src/gifs/blinkies/win10no.gif]]
+[[./src/gifs/blinkies/seedyourtorrents.gif]]
+[[./src/gifs/blinkies/chrmevil.gif]]
+[[./src/gifs/blinkies/3dot5mmfc-button.gif]]
+[[./src/gifs/blinkies/iecrash.gif]]
+[[./src/gifs/blinkies/gregdock.gif]]
+[[https://sapphic-cafe.neocities.org][file:./src/gifs/blinkies/sapphic-cafe-button.png]]
+[[https://neotomic.neocities.org/][file:./src/gifs/blinkies/neotomic.gif]]
+[[https://openbsd.org/][file:./src/gifs/blinkies/openbsd.png]]
+[[https://partysepe13.neocities.org/][file:./src/gifs/blinkies/partysepe.png]]
+** My banner
+If you enjoyed my website, you could link me on your personal website using this banner. If you don't want to, then no pressure  💜 I still love you and I hope that this small shrine of mine will impress you in the future!!!
+
+[[./src/gifs/crystal-tilde.gif]]
+#+ATTR_HTML: :width 240px
+[[./src/gifs/my_buttons/lain_crystal_glitch.gif]]
+
+/And others too are in this directory [[./src/gifs/my_buttons/]]. All of them were made by https://julians-art.neocities.org/ Thanks a lot Julian !!!/
+* [[./links.html][Close this website, txEn eht nepO.( Webrings , so expect JavaScript on this page)!!]]
+* Archived Articles
+These are some articles that I archived because I felt like they are low quality, but not enough to get deleted
+- *[[./archives/discord.html][Discord : an internet cancer]]* /Sun Sep 10 15:25:22 2023/
